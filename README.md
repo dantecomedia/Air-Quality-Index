@@ -17,4 +17,4 @@ The benefits of practicing this problem by using Machine Learning techniques are
     This challenge will encourage you to apply your Machine Learning skills to build models that can predict the air pollution index based on historical data of the climate
     This challenge will help you enhance your knowledge of time-series based regression. Regression is one of the basic building blocks of Machine Learning
 
-We challenge you to build a model that predicts the air pollution index on a specific day in the future.
+
